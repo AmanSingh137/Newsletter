@@ -65,9 +65,3 @@ app.listen(process.env.PORT || 3000, function(){
     console.log("SERVER UP AND RUNNING, GET READY FOR FULL KOMEDI");
 });
 
-//api key
-//f254e694c99afa0f8962735ca8a02a29-us6
-
-
-//audience id
-//cf34c2762b
